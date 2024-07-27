@@ -1,0 +1,3 @@
+self.lr = 0.1
+self.discount_factor = 0.9
+self.epsilon = 0.01
